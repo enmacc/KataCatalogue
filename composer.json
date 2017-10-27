@@ -1,0 +1,14 @@
+{
+    "name": "vendor/kata-catalogue",
+    "description": "Kata Catalogue e letture interessanti, parte di tdd-unibo-massimo ",
+    "authors": [
+        {
+            "name": "Enrico",
+            "email": "enrico.macchiavelli@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.4.3"
+    }
+}
